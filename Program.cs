@@ -7,7 +7,7 @@ namespace ConsoleApp3
     class Program
     {
 
-
+         // Youtube Proje
         static void Main(string[] args)
         {
             var names = new List<string> { "kendra", "scoot", "felipe" };
